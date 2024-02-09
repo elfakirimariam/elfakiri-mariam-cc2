@@ -46,10 +46,10 @@ h1:first-of-type{
     align-items: center;
 }
 .about{
-    background-color: dodgerblue;
+    background-color: rgb(3, 70, 137);
     color: white;
     padding-left: 20px;
-    height: 100%;
+    padding: 20px;
     
     
 }
